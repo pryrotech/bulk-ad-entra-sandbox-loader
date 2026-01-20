@@ -1,0 +1,1 @@
+# bulk-ad-entra-sandbox-loader
